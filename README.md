@@ -2,8 +2,8 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=beatriciramos&label=Profile%20views&color=0e75b6&style=flat" alt = "beatriciramos" /> </p>
 <div> 
   <a href="https://github.com/beatriciramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriciramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriciramos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatriciramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriciramos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
